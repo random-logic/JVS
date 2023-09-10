@@ -1,4 +1,4 @@
-# JVS
+# Java Version Switcher for Windows
 JVS switches installed Java Versions in Environment Variables. There does exist other tools like JVM, the difference is that JVS has very simple code, is light weight, and can easily be uninstalled.
 
 ## Setup
