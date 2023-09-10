@@ -6,7 +6,7 @@ JVS switches installed Java Versions in Environment Variables. There does exist 
 2. Add the repo folder to path.
 3. Add JAVA_HOME to environment variables.
 4. Add %JAVA_HOME%\bin to path.
-5. Remove any system paths linked to Java, as this may override the paths that we just set.
+5. Remove any system paths linked to Java if applicable, as this may override the paths that we just set.
 
 ## Usage
 In command prompt, type jvs version-number. For example, to switch to jdk-20, type jvs 20.
